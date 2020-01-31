@@ -1,3 +1,4 @@
+# deprecated by bat
 function _dog
     for f in $argv
         echo "Displaying contents of \"$f\":"
